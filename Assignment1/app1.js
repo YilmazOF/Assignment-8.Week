@@ -3,6 +3,7 @@
 // Add each letter in the text to the array
 //Create an object to count letter occurrences
 //Calculate the number of repeated letters by rotating through the array
+//
 
 const inputString =
   "How would you calculate the number of repeated letters in the string?";
